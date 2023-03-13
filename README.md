@@ -1,7 +1,5 @@
 # Deep Water
 
-This project aims to track changes in water level using satellite imagery and deep learning. Throughout my studies, I've worked on this project with my friend Karl as part of our [portfolio project](https://www.meetup.com/Data-Science-Retreat/events/273185026/) of the Data Science Retreat. The retreat consists of a three months intensive in-person Data Science bootcamp in Berlin, Germany.
-
 This project aims to track changes in water bodies using satellite imagery over a four-year period. The inspiration for this project came from an article discussing the fact that some of the world's largest lakes are drying up. In order to track these changes, the project utilizes satellite imagery from the Sentinel Hub and Resisc45 datasets.
 In the modeling phase, the project employs two different neural network architectures, U-net and Residual U-net, to segment the water bodies in the satellite images and accurately track changes over time. The use of these advanced machine learning techniques allows for a more precise and efficient analysis of the water bodies in question.
 Overall, the goal of this project is to use satellite imagery and deep learning to better understand and monitor changes in water bodies, with the ultimate goal of informing decision-making and management strategies to preserve these important resources.
